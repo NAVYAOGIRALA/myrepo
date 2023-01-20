@@ -1,0 +1,19 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+- APPLE
+- BANANA
+- CHERRY
+
+My name is **Navya Teja Ogirala** doing my *"masters"* at ODU ***in Computer Science***, attaching link below (https://duckduckgo.com).
+
+  <html>
+    <head>
+    Have a good day!
+    </head>
+  </html>
+
+### Level 3 Heading
+
